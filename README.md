@@ -18,6 +18,7 @@
 - SQL
 - Microserviços
 
+# É importante saber que :
 
 - 🤔 Estou buscando cooperar com o mercado de vendas e relação de oferta e demanda hoje
 
@@ -32,7 +33,7 @@
 
 - ⚡ Fato divertido, eu comecei a aprender Python por Redes Neurais
 
-- Badges : 
+- Skills Técnicas : 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
