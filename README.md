@@ -14,7 +14,9 @@
 - 💬 Me pergunte sobre Python
 
 - 📫 Como falar comigo :
-<a href=”https://www.linkedin.com/in/marcusviniciusfonsecap/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+  [Linkedin](https://www.linkedin.com/in/marcusviniciusfonsecap/)
+  [Instagram](https://www.instagram.com/marcusvpissinatti/)
+  
 
 - 😄 Sim, meu apelido é Chuck ! Mas pode me chamar pelo meu nome, Marcus Vinicius 
 
