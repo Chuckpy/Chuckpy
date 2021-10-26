@@ -1,7 +1,7 @@
 ### Olá a todos👋
 
 
-![Chuck's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Chuck's stats](https://github-readme-stats.vercel.app/api?username=chukpy&show_icons=true&theme=radical)
 
 
 
