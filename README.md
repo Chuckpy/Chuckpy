@@ -17,6 +17,8 @@
 - Flask
 - SQL
 - Microserviços
+- Kubernetes
+- Docker
 
 # É importante saber que :
 
