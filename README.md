@@ -5,16 +5,26 @@
 
 
 
-- 🔭 Atualmente estou trabalhando na SOLVUM, ja amo a empresa
+# 🔭 Atualmente estou trabalhando :
+ - Empresa SOLVUM, ja amo a empresa
+ - Projetos Pessoais
+ - Meu Blog Pessoal
+ - Meu curriculo Virtual
 
-- 🌱 Estou aprendendo e me melhorando em Django e Flask
+# 🌱 Estou aprendendo:
+- Python
+- Django
+- Flask
+- SQL
+- Microserviços
+
 
 - 🤔 Estou buscando cooperar com o mercado de vendas e relação de oferta e demanda hoje
 
 - 💬 Me pergunte sobre Python
 
-- 📫 Como falar comigo :
-  [Linkedin](https://www.linkedin.com/in/marcusviniciusfonsecap/)
+- 📫 Quer falar comigo ? Entre em contato por essas redes :
+  [Linkedin](https://www.linkedin.com/in/marcusviniciusfonsecap/) / 
   [Instagram](https://www.instagram.com/marcusvpissinatti/)
   
 
