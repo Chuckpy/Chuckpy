@@ -2,7 +2,7 @@
 
 
 ![Chuck's stats](https://github-readme-stats.vercel.app/api?username=Chuckpy&show_icons=true&theme=radical)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuckpy)](https://marcusvp-portfolio.netlify.app/)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuckpy&layout=compact)](https://marcusvp-portfolio.netlify.app/)
 
 
 
