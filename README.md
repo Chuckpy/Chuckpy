@@ -25,9 +25,10 @@
 - 💬 Me pergunte sobre Python/Django
 
 - 📫 Quer falar comigo ? Entre em contato por essas redes :
-  - <a href="https://www.linkedin.com/in/marcusviniciusfonsecap"><img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" /> </a>
-  - <a href="https://www.instagram.com/marcusvpissinatti"><img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" /> </a>
-  - <a href="https://marcusvp-portfolio.netlify.app/"><img src="{https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white}" /> </a>
+  - 
+  - <a href="https://www.linkedin.com/in/marcusviniciusfonsecap" rel="LinkedIn">![Foo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+  - <a href="https://www.instagram.com/marcusvpissinatti" rel="Instagram">![Foo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+  - <a href="https://marcusvp-portfolio.netlify.app/" rel="MySite">![Foo](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
   
 
 - 😄 Sim, meu apelido é Chuck ! Mas pode me chamar pelo meu nome, Marcus Vinicius 
