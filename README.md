@@ -35,13 +35,6 @@ Do banco de dados ao front, meu foco é eficiência. Não escrevo apenas código
 
 ---
 
-### 📊 Estatísticas e Atividade:
-
-![Chuck's stats](https://github-readme-stats.vercel.app/api?username=Chuckpy&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuckpy&layout=compact&theme=radical)
-
----
-
 ### ⚡ Fatos sobre mim:
 - 🤔 **Curiosidade:** Comecei no Python por causa das Redes Neurais e hoje uso essa base para criar backends mais inteligentes.
 - 💬 **Me pergunte sobre:** Python, Django, automação com Playwright e como reduzir o tempo de CI/CD (de 25 pra 5 minutos, quem sabe? 😉).
