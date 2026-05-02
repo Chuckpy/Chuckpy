@@ -37,7 +37,7 @@ Do banco de dados ao front, meu foco é eficiência. Não escrevo apenas código
 
 ### ⚡ Fatos sobre mim:
 - 🤔 **Curiosidade:** Comecei no Python por causa das Redes Neurais e hoje uso essa base para criar backends mais inteligentes.
-- 💬 **Me pergunte sobre:** Python, Django, automação com Playwright e como reduzir o tempo de CI/CD (de 25 pra 5 minutos, quem sabe? 😉).
+- 💬 **Me pergunte sobre:** Python, Django, automação com Playwright e como reduzir o tempo de CI/CD (de 35 pra 3 minutos, quem sabe? 😉).
 - 😄 **Chuck?** Sim, é o apelido, mas pode me chamar de Marcus se preferir (ou se o bug for muito sério).
 
 ### 📫 Vamos trocar uma ideia?
