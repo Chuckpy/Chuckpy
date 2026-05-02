@@ -20,7 +20,7 @@
 
 # É importante saber que :
 
-- 🤔 Estou aprendendo novos mecanismos e linguagens para o backend
+- 🤔 Estou aprendendo novos mecanismos e linguagens para o backendmailto:marcusandrade.37@gmail.com
 
 - 💬 Me pergunte sobre Python/Django
 
